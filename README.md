@@ -71,4 +71,4 @@ and also :
 
 ### Screenshot
 
-![Result](./Screenshot/Libft.jpeg)
+![Result](./screenshot/Libft.jpeg)
