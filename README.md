@@ -1,6 +1,6 @@
-# Libft a library that content a set of some C standard functions reimplimented and othres basic functions to use in 42 cursus project.
+# Libft a library that content a set of some C standard functions reimplemented and othres basic functions to use in 42 cursus project.
 
-This is the first project in 42 cursus, the aim is to impliment a  collecion of functions that i will be used in other project.  
+This is the first project in 42 cursus, the aim is to implement a  collecion of functions that i will be used in other project.  
 
 ## Table of contents
 
@@ -71,4 +71,4 @@ and also :
 
 ### Screenshot
 
-![Result](./screenshot/Result.png)
+![Result](./Screenshot/Libft.jpeg)
