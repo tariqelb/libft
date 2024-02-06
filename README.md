@@ -43,7 +43,7 @@ Reimpliment a set of C function that interpret string , number, character, memor
   • calloc <br>
   • strdup <br>
 
-- and also :
+- and also :<br>
 
   • char *ft_substr(char const *s, unsigned int start, size_t len);<br>
   • char *ft_strjoin(char const *s1, char const *s2);<br>
@@ -58,7 +58,7 @@ Reimpliment a set of C function that interpret string , number, character, memor
   • void ft_putnbr_fd(int n, int fd);<br>
   
   
-- The second part recode a collection of function that operate with link list:
+- The second part recode a collection of function that operate with link list:<br>
   • t_list *ft_lstnew(void *content);<br>
   • void ft_lstadd_front(t_list **lst, t_list *new);<br>
   • int ft_lstsize(t_list *lst);<br>
