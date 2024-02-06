@@ -43,7 +43,7 @@ Reimpliment a set of C function that interpret string , number, character, memor
   • calloc <br>
   • strdup <br>
 
-and also :
+- and also :
 
   • char *ft_substr(char const *s, unsigned int start, size_t len);<br>
   • char *ft_strjoin(char const *s1, char const *s2);<br>
